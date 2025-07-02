@@ -10,6 +10,10 @@ export function mul (x, y) {
     return x * y;
 }
 
+export function div (x, y) {
+    return x / y;
+}
+
 export function run() {
     console.log('run')
 }
